@@ -1,2 +1,2 @@
 # ExcelMarketGUI
- Python ile market programı oluşturdum.
+ Çalışmam Market Sistemi projesidir. Oluşturulan proje python dili ile yazılmıştır. Projemde market verilerinin excel ile birlikte kulllanılıp çalışması sağlanmıştır. Stok ve satış görevlileri için tasarlanmıştır. Stok işlem ekranında ürün güncelleme, yeni ürün ekleme, ürün silme ve rapor işlemleri yapılmaktadır. Satış ekranında ise ürün kodu/barkod numarası girişi sonrası ürün bilgileri excelden çekilir ve ekrana yazılır. Toplam ürün satış tutarı görüntüleme, ürün iptal, satış iptal, satış yap işlemleri yapılmaktadır.
